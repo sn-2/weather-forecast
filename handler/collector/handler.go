@@ -5,12 +5,12 @@ import (
 	"context"
 	_ "embed"
 	"fmt"
+	"github.com/sn-2/weather-forecast/model"
+	"github.com/sn-2/weather-forecast/pkg/errs"
 	"html/template"
 	"log/slog"
 	"os"
 	"time"
-	"weather_forecast/model"
-	"weather_forecast/pkg/errs"
 )
 
 type Collector struct {

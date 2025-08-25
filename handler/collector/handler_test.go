@@ -3,10 +3,10 @@ package collector
 import (
 	_ "embed"
 	"encoding/json"
+	"github.com/sn-2/weather-forecast/model"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"
-	"weather_forecast/model"
 )
 
 //go:embed testdata/weathers.json

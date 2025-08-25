@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/sn-2/weather-forecast/cmd"
 	"github.com/spf13/cobra"
 	"log/slog"
 	"os"
-	"weather_forecast/cmd"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package collector
 
 import (
 	"context"
-	"weather_forecast/model"
+	"github.com/sn-2/weather-forecast/model"
 )
 
 type WeatherService interface {
