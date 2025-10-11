@@ -1,7 +1,7 @@
 ## Today's Weather
 <div align="center">
 
-`Islamabad, Pakistan - 11/10/2025`
+`Islamabad, Pakistan - 12/10/2025`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.7 °C</td><td>19.5 °C</td><td>19.1 °C</td><td>18.5 °C</td><td>18.2 °C</td><td>17.8 °C</td><td>17.5 °C</td><td>18.5 °C</td><td>22.1 °C</td><td>24.1 °C</td><td>25.5 °C</td><td>26.6 °C</td><td>27.4 °C</td><td>27.9 °C</td><td>27.9 °C</td><td>27.8 °C</td><td>27.4 °C</td><td>25.1 °C</td><td>22.4 °C</td><td>20.9 °C</td><td>19.6 °C</td><td>20.2 °C</td><td>20 °C</td><td>19.7 °C</td>
+        <td>19.4 °C</td><td>19 °C</td><td>18.6 °C</td><td>18.3 °C</td><td>17.7 °C</td><td>17.2 °C</td><td>16.6 °C</td><td>17.4 °C</td><td>22 °C</td><td>23.8 °C</td><td>25.1 °C</td><td>26.4 °C</td><td>27.4 °C</td><td>28.1 °C</td><td>28.3 °C</td><td>28.3 °C</td><td>27.8 °C</td><td>25.4 °C</td><td>22.2 °C</td><td>20.7 °C</td><td>20.2 °C</td><td>20.2 °C</td><td>20.1 °C</td><td>19.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.4 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>4.3 kph</td><td>2.5 kph</td><td>5 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>8.3 kph</td>
+        <td>7.9 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>4 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5 kph</td><td>3.2 kph</td><td>6.5 kph</td><td>8.6 kph</td><td>9 kph</td><td>9 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
@@ -40,7 +40,7 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>11/10/2025</td><td>12/10/2025</td><td>13/10/2025</td>
+        <td>12/10/2025</td><td>13/10/2025</td><td>14/10/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -52,16 +52,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.5 -  27.9 °C</td><td>16.6 -  28.3 °C</td><td>16.9 -  28.5 °C</td>
+        <td>16.6 -  28.3 °C</td><td>16.9 -  28.5 °C</td><td>17.5 -  28.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.4 kph</td><td>9.4 kph</td><td>9.7 kph</td>
+        <td>9.4 kph</td><td>9.7 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-10-11T18:35:00Z*
+*Updated at: 2025-10-11T19:23:23Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
