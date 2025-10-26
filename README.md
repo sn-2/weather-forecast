@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.7 °C</td><td>17.4 °C</td><td>17.1 °C</td><td>16.8 °C</td><td>16.5 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>16.5 °C</td><td>21 °C</td><td>24.6 °C</td><td>25.9 °C</td><td>26.8 °C</td><td>27.4 °C</td><td>27.9 °C</td><td>28.1 °C</td><td>28 °C</td><td>27.3 °C</td><td>24.3 °C</td><td>20.4 °C</td><td>19.6 °C</td><td>19 °C</td><td>18.7 °C</td><td>18.3 °C</td><td>18 °C</td>
+        <td>17.7 °C</td><td>17.4 °C</td><td>17.1 °C</td><td>16.8 °C</td><td>16.5 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>16.5 °C</td><td>21.1 °C</td><td>24.6 °C</td><td>26.1 °C</td><td>27 °C</td><td>27.5 °C</td><td>27.9 °C</td><td>28 °C</td><td>27.9 °C</td><td>27.4 °C</td><td>24.3 °C</td><td>20.4 °C</td><td>19.6 °C</td><td>19 °C</td><td>18.7 °C</td><td>18.3 °C</td><td>18 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.4 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>4 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>5 kph</td><td>4.3 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.1 kph</td>
+        <td>10.4 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>8.3 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>9 kph</td><td>9.7 kph</td><td>9 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>4 kph</td><td>4 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
@@ -52,16 +52,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.1 -  28.1 °C</td><td>16.4 -  28.1 °C</td><td>17.3 -  28 °C</td>
+        <td>16.1 -  28 °C</td><td>16.4 -  28 °C</td><td>17.5 -  28.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.4 kph</td><td>10.4 kph</td><td>10.8 kph</td>
+        <td>10.4 kph</td><td>10.4 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-10-26T10:33:04Z*
+*Updated at: 2025-10-26T11:25:57Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
