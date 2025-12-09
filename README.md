@@ -3,9 +3,9 @@
 
 `Islamabad, Pakistan - 09/12/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Sunny
+Partly Cloudy 
 
 </div>
 
@@ -17,19 +17,19 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Overcast </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Clear </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.2 °C</td><td>11 °C</td><td>10.7 °C</td><td>10.5 °C</td><td>10.2 °C</td><td>10 °C</td><td>9.8 °C</td><td>9.6 °C</td><td>11.2 °C</td><td>16.8 °C</td><td>19.3 °C</td><td>20.8 °C</td><td>21.9 °C</td><td>22.2 °C</td><td>22.1 °C</td><td>21.6 °C</td><td>19.5 °C</td><td>14.8 °C</td><td>13.9 °C</td><td>13.7 °C</td><td>13 °C</td><td>12.6 °C</td><td>12.4 °C</td><td>12.1 °C</td>
+        <td>11.3 °C</td><td>11 °C</td><td>10.7 °C</td><td>10.4 °C</td><td>10.2 °C</td><td>10 °C</td><td>9.8 °C</td><td>9.7 °C</td><td>11.2 °C</td><td>16.7 °C</td><td>19.4 °C</td><td>20.9 °C</td><td>21.9 °C</td><td>21.9 °C</td><td>21.9 °C</td><td>21.4 °C</td><td>19.4 °C</td><td>14.7 °C</td><td>14.4 °C</td><td>13.5 °C</td><td>12.8 °C</td><td>12.6 °C</td><td>12.4 °C</td><td>11.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.4 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>9 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>7.2 kph</td>
+        <td>8.6 kph</td><td>7.9 kph</td><td>9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>4.7 kph</td><td>4 kph</td><td>5.4 kph</td><td>9.4 kph</td><td>9 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td>
     </tr>
 </table>
 
@@ -44,24 +44,24 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.6 -  22.2 °C</td><td>10.5 -  22.7 °C</td><td>10.4 -  23.2 °C</td>
+        <td>9.7 -  21.9 °C</td><td>11.2 -  22.8 °C</td><td>10.4 -  22.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.7 kph</td><td>8.3 kph</td><td>9.7 kph</td>
+        <td>9.4 kph</td><td>9.4 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-12-09T08:46:06Z*
+*Updated at: 2025-12-09T09:37:35Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
