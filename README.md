@@ -61,7 +61,7 @@ Overcast
 </table>
 
 
-*Updated at: 2025-12-18T13:49:26Z*
+*Updated at: 2025-12-18T14:41:48Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
