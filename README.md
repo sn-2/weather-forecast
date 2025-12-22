@@ -61,7 +61,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-12-22T07:35:48Z*
+*Updated at: 2025-12-22T08:46:35Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
